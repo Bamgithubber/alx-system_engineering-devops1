@@ -1,1 +1,2 @@
-This is a place where scripts are written
+#!/bin/bash
+pwd
